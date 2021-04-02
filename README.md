@@ -1,5 +1,7 @@
 An application that includes a home page, login page, and register page.
 
+Here are instructions on how to deploy using firebase.
+
 # React Firebase Starter Kit
 Starter kit is just an extension of the create react app project [Create React App](https://github.com/facebook/create-react-app).
 
